@@ -4,5 +4,5 @@
 Thank you for visiting my Github profile. I'm Yessica Bao, Operations Manager @ Lumisa Energias.
 
 ## My Git Stats
-<img height="180em" src="https://github.com/pepiyu/github-readme-stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pepiyu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
 
