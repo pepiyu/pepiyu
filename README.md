@@ -9,3 +9,5 @@ Thank you for visiting my Github profile. I'm Yessica Bao, Operations Manager @ 
 ## My Most Used Languages
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepiyu&langs_count=8&layout=compact&theme=dark" />
+
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
